@@ -1,3 +1,8 @@
+layout: page
+title: "Insight Final Event"
+permalink: /insightfinaleventpage/
+
+
 <img style="float=left; margin-right: 1em; margin-bottom: 1em;" align="left" src="https://raw.githubusercontent.com/in-sight-it/in-sight-it.github.io/gh-pages/assets/in-sight-finalevent.png">
 
 You are cordially invited to join the In-Sight team in an afternoon of reflecing on and thinking beyond the findings of our research project. <br>
