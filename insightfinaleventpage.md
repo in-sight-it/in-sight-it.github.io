@@ -1,6 +1,8 @@
+---
 layout: page
 title: "Insight Final Event"
 permalink: /insightfinaleventpage/
+---
 
 
 <img style="float=left; margin-right: 1em; margin-bottom: 1em;" align="left" src="https://raw.githubusercontent.com/in-sight-it/in-sight-it.github.io/gh-pages/assets/in-sight-finalevent.png">
