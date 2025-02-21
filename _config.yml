@@ -56,30 +56,19 @@ navigation_header:
   url: /events/
 
 .nav--header .list--nav {
-  display: flex;  /* Ensures items are in a row */
-  flex-wrap: nowrap; /* Prevents wrapping */
-  justify-content: space-evenly; /* Distributes space evenly */
+  display: flex;
+  flex-wrap: nowrap;
+  justify-content: space-between; /* Spread items evenly */
+  gap: 10px; /* Adds spacing between items */
 }
 
 .nav--header .item--nav {
-  padding: 5px 8px;  /* Reduce horizontal spacing */
-  font-size: 14px;  /* Adjust text size */
-  white-space: nowrap;  /* Prevents text from breaking into multiple lines */
+  flex-shrink: 1;  /* Allows items to shrink to fit */
+  min-width: 100px;  /* Prevents excessive shrinking */
+  font-size: 14px;
+  padding: 5px 10px;
+  white-space: nowrap;
 }
-
-.nav--header .item--nav a {
-  text-align: center; /* Centers text inside each link */
-}
-
-@media (max-width: 768px) {
-  .nav--header .list--nav {
-    flex-wrap: wrap; /* Allow wrapping on smaller screens */
-    justify-content: center;
-  }
-}
-
-
-
 
 
 # Footer nav
