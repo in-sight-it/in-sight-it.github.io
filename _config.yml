@@ -55,11 +55,29 @@ navigation_header:
 - title: Events 
   url: /events/
 
-.item--nav {
-  padding: 8px 10px; /* Reduce left/right padding */
-  font-size: 14px;    /* Adjust font size if needed */
-  white-space: nowrap; /* Prevent text wrapping */
+.nav--header .list--nav {
+  display: flex;  /* Ensures items are in a row */
+  flex-wrap: nowrap; /* Prevents wrapping */
+  justify-content: space-evenly; /* Distributes space evenly */
 }
+
+.nav--header .item--nav {
+  padding: 5px 8px;  /* Reduce horizontal spacing */
+  font-size: 14px;  /* Adjust text size */
+  white-space: nowrap;  /* Prevents text from breaking into multiple lines */
+}
+
+.nav--header .item--nav a {
+  text-align: center; /* Centers text inside each link */
+}
+
+@media (max-width: 768px) {
+  .nav--header .list--nav {
+    flex-wrap: wrap; /* Allow wrapping on smaller screens */
+    justify-content: center;
+  }
+}
+
 
 
 
