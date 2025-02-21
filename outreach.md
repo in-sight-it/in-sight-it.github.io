@@ -3,6 +3,10 @@ layout: page
 title: Outreach
 ---
 
+**March 2025**
+<img style="float=left; margin-right: 1em; margin-bottom: 1em;" align="left" src="https://raw.githubusercontent.com/in-sight-it/in-sight-it.github.io/gh-pages/assets/in-sight-finalevent.png">
+
+
 **Februrary 2023**
 
 <a href="/assets/antennas-and-us-2.jpeg" target="_blank"><img style="float=left; margin-right: 1em; width: 50%;" align="left" src="/assets/antennas-and-us-2.jpeg"></a>Exhibition: "Antennas and us" 
