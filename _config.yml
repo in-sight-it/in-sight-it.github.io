@@ -55,22 +55,6 @@ navigation_header:
 - title: Events 
   url: /events/
 
-.nav--header .list--nav {
-  display: flex;
-  flex-wrap: nowrap;
-  justify-content: space-between; /* Spread items evenly */
-  gap: 10px; /* Adds spacing between items */
-}
-
-.nav--header .item--nav {
-  flex-shrink: 1;  /* Allows items to shrink to fit */
-  min-width: 100px;  /* Prevents excessive shrinking */
-  font-size: 14px;
-  padding: 5px 10px;
-  white-space: nowrap;
-}
-
-
 # Footer nav
 navigation_footer:
 - title: Back to top
