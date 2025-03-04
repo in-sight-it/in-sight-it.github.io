@@ -14,7 +14,7 @@ We will wrap up the sessions by discussing **key take-aways and recommendations 
 
 **You can sign up for one of our sessions [here](https://cryptpad.fr/form/#/2/form/view/LI666tpsTN6hpmMZLxaekyCe2571vCgKaO0IuJqZI8o/):** <br>
 March 18th (Tue) 14:30-16:00 or 16:30-18:00 @UvA Humanities Lab <br>
-March 19th (Wed) 14:30-16:00 or 16:30-18:00 @UvA BG1 Room 0.16 <br>
+March 19th (Wed) 14:30-16:00 or 16:30-18:00 @UvA BG1 Room 0.16 <br><br>
 
 **What is the In-Sight Project** <br>
 The project started in October 2020 and will run until March 2025. It is funded by the Dutch Research Council and it investigates standard-making in relation to democratic values and practices. It asks how the public sphere is governed today through the standardization of the digital and how to support societal values in the creation of standards.<br> <br>
