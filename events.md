@@ -9,7 +9,7 @@ permalink: /events/
     Dates: 18 & 19 March 2025 | Time: 14:30-16:00 or 16:30-18:00  
     Location: University of Amsterdam
 
-<br><br>
+<br>
 
 <a href="{{ site.baseurl }}/insightfinaleventpage/">
     <img style="float:left; margin-right: 1em; margin-bottom: 1em;" src="{{ site.baseurl }}/assets/in-sight-finalevent.png">
