@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Standards In the Making Workshops"
-permalink: /standards_in_the_making_workshop/
+permalink: /standardsinthemakingworkshop/
 ---
 
 
