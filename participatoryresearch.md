@@ -27,7 +27,7 @@ The IN-SIGHT project, funded by the Dutch Research Council (NWO), launched in 20
 16:50-17:00 Concluding remarks, followed by borrel <br>
 
 
-**Workshop Attendees**
+**Workshop Attendees** <br>
 Ana Pop Stefanija (Vrije Universiteit Brussels, Belgium) <br>
 Kristian Husted (Algorithmic Theatre, Denmark) <br>
 Giovanni Davide Zenga (European Commission’s Joint Research Centre & Politecnico Milan, Italy) <br>
