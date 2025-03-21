@@ -19,7 +19,7 @@ permalink: /events/
 
 <br>
 
-<a href="{{ site.baseurl }}/participatoryresearchmethod/">
+<a href="{{ site.baseurl }}/participatoryresearch/">
     <img style="float:left; margin-right: 1em; margin-bottom: 1em;" src="{{ site.baseurl }}/assets/participatoryresearchmethodworkshop.png">
     Dates: 20 March 2025 | Time: 13:00-17:00
     Location: University of Amsterdam, Humanities Lab (Bushuis F0.01, Kloveniersburgwal 48)
