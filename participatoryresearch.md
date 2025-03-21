@@ -5,7 +5,7 @@ permalink: /participatoryresearchmethodworkshop/
 ---
 
 
-<img style="float=left; margin-right: 1em; margin-bottom: 1em;" align="left" src="https://raw.githubusercontent.com/in-sight-it/in-sight-it.github.io/gh-pages/assets/participatoryresearchmethod.png">
+<img style="float=left; margin-right: 1em; margin-bottom: 1em;" align="left" src="https://raw.githubusercontent.com/in-sight-it/in-sight-it.github.io/gh-pages/assets/participatoryresearchmethodworkshop.png">
 
 The IN-SIGHT project, funded by the Dutch Research Council (NWO), launched in 2021 with the mission of ‘Making the Hidden Visible: Co-designing for public values in standards-making and governance’. Over the past five years, the project has explored innovative methods to engage laypersons in discussions on complex sociotechnical issues like standard-making. As we approach the project's conclusion, this workshop provides a space to reflect on participatory research methods, share best practices, and discuss practical takeaways for responsible innovation. <br>
 
