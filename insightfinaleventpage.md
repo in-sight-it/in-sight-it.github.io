@@ -15,11 +15,21 @@ Please sign up [*HERE*](https://cryptpad.fr/form/#/2/form/view/My0XmdRbbDNF2bnC-
 TIME: **March 21st (Fri) 12:30 - 16:00** (lunch will be served at 12:00 and a borrel will follow after the concluding remarks)<br>
 LOCATION: **The Humanities Lab** (Bushuis F0.01, Kloveniersburgwal 48)<br>
 
-Below is the (tentative) program: <br>
+**Workshop objectives:** <br>
+- **Assess the legacy and gaps:** Reflect on the key contributions of the IN-SIGHT project from the media studies, computer science, legal studies and citizen science perspective, while critically examining the unresolved tensions in standard-setting—especially concerning power, societal impact, inclusion, and public values. <br>
+- **Situate standards in a changing geopolitical landscape:** Explore how shifting global power dynamics, regulatory competition, and emerging technologies challenge existing governance frameworks and reshape the role of citizenship in digital networks. <br>
+- **Chart future research and action agendas:** Identify pressing questions and strategic priorities for scholars, policymakers, lawmakers, regulators, and practitioners to ensure that standards-making become more responsive, democratic, and aligned with public interests. 
+
+**Program Overview: **<br>
 12:00-12:30 doors open; light lunch will be served <br>
-12:30-12:45 intro to In-Sight <br>
-12:45-13:45 Session 1: Values in tech and standard-making (speakers TBD)<br>
-13:45-14:00 coffee break <br>
-14:00-15:00 Session 2: Perspective from data science (speakers TBD)<br>
-15:00-16:00 Session 3: Perspective from legal and participatory design (speakers TBD)<br>
-16:00-16:15 concluding remarks and borrel<br>
+12:30-13:30 **Session 1: A sociotechnical approach to public values in tech and standards**<br>
+_Presenters: Stefania Milan (UvA Media Studies) & Jeroen de Vos (former IN-SIGHT project manager)_<br>
+_Respondents: Annemijn Kwikkers (UvA Philosophy and Algosoc) & Fieke Jansen (Critical Infrastructure Lab) _<br>
+13:30-13:45 coffee break <br>
+13:45-14:45 **Session 2: Data science & the politics of standardization**<br>
+_Presenters: Paul Groth & Xue Li (Effy) (UvA Informatics & Data Science Centre) <br>
+Respondents: Steven Pemberton (Centrum Wiskunde & Informatica) & Stefania Milan_ <br>
+14:45-15:45 **Session 3: Legal & participatory design approaches to standard-making** <br>
+_Presenters: Anna Berti Suman (Luiss Guido Carli University, Law School/IN-SIGHT), Sarah Vorndran (Critical Infrastructure Lab) & Mariëtte Amsing (Mary Jet) <br>
+Respondents: Giovanni Zenga (Joint Research Centre of the European Commission, Ispra & Politecnico Milan) & Gabriel Oliveira Pereira (UvA Media Studies)_ <br>
+15:45-16:00 Closing remarks and thanks, followed by borrel<br>
